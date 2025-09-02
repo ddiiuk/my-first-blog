@@ -1,0 +1,19 @@
+#Python
+*.pyc
+*~
+__pacache__
+# Env
+.Env
+myenv/
+venv/
+
+#Datenbank
+db.sqlite3
+
+#Static Ordner im Projekttverzeichnis
+/static/
+
+
+.vscode/
+.history/
+*.code.workspace
